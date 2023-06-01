@@ -1,5 +1,6 @@
 # The Happy Thoughts Plant
 A simple system using Android and Ardiuno for a plant-shaped device that can help release stress and anxiety.
+![The Happy Thoughts Plant](https://github.com/kmazrolina/TheHappyThoughtsPlant/assets/121491288/620b030f-f661-475a-a2c3-23bf4a5352d2)
 
 ## Description
 This system consists of an Android application and an Arduino circuit. The Android app provides various activities such as Landing Activity, Calming Chat (uses ChatGPT API), Music Therapy, and Nature Sounds. The Arduino circuit, connected to the Android device via Bluetooth, allows you to control the app activities using three buttons.
