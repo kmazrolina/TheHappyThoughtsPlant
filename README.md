@@ -46,6 +46,10 @@ This system consists of an Android application and an Arduino circuit. The Andro
 
 2. Connect the 3 buttons to the Arduino board, ensuring the proper connections.
 
+
+![Zrzut ekranu 2023-05-31 o 15 06 41](https://github.com/kmazrolina/TheHappyThoughtsPlant/assets/121491288/b46314b7-bb7b-47ef-a9c6-c3f873498bb3)
+
+
 ### Arduino Program
 1. Open the Arduino IDE.
 
