@@ -54,6 +54,6 @@ This system consists of an Android application and an Arduino circuit. The Andro
 
 
 ## Credits
-- The Calming Chat activity with ChatGPT API was created based on the tutorial by youtube creator [Easy Tuto](<(https://www.youtube.com/@EasyTuto1)>). You can find the tutorial [here](<(https://www.youtube.com/watch?v=ahhze_u5ZUs&t=1s)>).
+- The Calming Chat activity with ChatGPT API was created based on the tutorial by youtube creator [Easy Tuto](https://www.youtube.com/@EasyTuto1). You can find the tutorial [here](https://www.youtube.com/watch?v=ahhze_u5ZUs&t=1s).
 
 
