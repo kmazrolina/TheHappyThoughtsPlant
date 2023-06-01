@@ -39,10 +39,10 @@ public class LandingActivity extends AppCompatActivity implements Runnable {
     private BluetoothDevice mDevice;
 
     /* Bluetooth UUID */
-    private final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
+    private final UUID MY_UUID = UUID.fromString("Enter UUID");
 
     /* デバイス名 */
-    private final String DEVICE_NAME = "FireFly-11A4";
+    private final String DEVICE_NAME = "Enter device name";
 
     /* Soket */
     private BluetoothSocket mSocket;
