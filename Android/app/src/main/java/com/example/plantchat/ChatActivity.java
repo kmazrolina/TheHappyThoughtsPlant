@@ -119,11 +119,12 @@ public class ChatActivity extends AppCompatActivity {
         } catch (JSONException e) {
             throw new RuntimeException(e);
         }
-
+        
         RequestBody body = RequestBody.create(jsonBody.toString(),JSON);
+        String APIkey = "Enter your API code here"
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", APIkey)
                 .post(body)
                 .build();
 
