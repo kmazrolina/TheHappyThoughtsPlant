@@ -15,7 +15,11 @@ This system consists of an Android application and an Arduino circuit. The Andro
 
 2. Install the required dependencies for the Android app.
 
-3. Build and install the Android app on your device.
+3. Navigate to Android/app/src/main/java/com/example/plantchat/ChatActivity.java. In line 124 enter your ChatGPT API key. 
+
+4. Navigate to Android/app/src/main/java/com/example/plantchat/LandingActivity.java. In line 42 Enter UUID. In line 45 enter your device name. 
+
+5. Build and install the Android app on your device.
 
 ### Running the App
 1. Make sure your Android device is connected to the internet and Bluetooth is enabled.
