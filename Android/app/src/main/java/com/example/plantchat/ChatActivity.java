@@ -124,7 +124,7 @@ public class ChatActivity extends AppCompatActivity {
         String APIkey = "Enter your API code here"
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization", APIkey)
+                .header("Authorization", "Bearer " + APIkey)
                 .post(body)
                 .build();
 
